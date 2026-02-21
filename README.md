@@ -79,7 +79,7 @@
 
 | الملف | الوصف |
 |-------|-------|
-| [Excel_Remover_AR.exe](releases/latest/Excel_Remover_AR.exe) | النسخة العربية - لا يحتاج تثبيت |
+| [Excel_Remover_AR.exe]([releases/latest/Excel_Remover_AR.exe](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR)) | النسخة العربية - لا يحتاج تثبيت |
 | [Excel_Remover_EN.exe](releases/latest/Excel_Remover_EN.exe) | النسخة الإنجليزية - لا يحتاج تثبيت |
 
 > 💡 **ملاحظة:** فقط حمل وشغل مباشرة!
