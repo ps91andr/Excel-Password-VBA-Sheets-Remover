@@ -60,7 +60,7 @@
 ---
 
 ### 🖼️ لقطات شاشة
-![لقطة شاشة للواجهة الرئيسية](https://i.ibb.co/RTT1VrFv/Screenshot-2026-02-22-195220.png)
+![لقطة شاشة للواجهة الرئيسية](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/blob/main/Screenshot%202026-02-22%20195220.png)
 <div align="center">
     <img src="https://i.ibb.co/RTT1VrFv/Screenshot-2026-02-22-195220.png" 
          alt="لقطة شاشة للواجهة الرئيسية" 
