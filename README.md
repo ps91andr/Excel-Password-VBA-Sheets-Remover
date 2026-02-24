@@ -1,6 +1,5 @@
 # 🔓 Excel-Password-VBA-Sheets-Remover
 
-
 <div align="center">
   
   <h1>🔓 Excel Password Remover</h1>
@@ -15,23 +14,37 @@
     <img src="https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey" alt="Platforms">
   </p>
   
+  <!-- روابط التنقل السريع -->
   <h3>
-    <a href="#-المميزات">المميزات</a> •
-    <a href="#-التثبيت">التثبيت</a> •
-    <a href="#-الاستخدام">الاستخدام</a> •
-    <a href="#-الصيغ-المدعومة">الصيغ</a> •
-    <a href="#-المساهمة">المساهمة</a> •
-    <a href="#-الترخيص">الترخيص</a>
+    <a href="#english_section">English</a> | <a href="#arabic_section">العربية</a>
   </h3>
-  
-  <h3>
-    <a href="#english">English</a> |
-    <a href="#-العربية">العربية</a>
-  </h3>
+
+  <p>
+    <b>قائمة التنقل (العربية):</b><br>
+    <a href="#features">المميزات</a> •
+    <a href="#download">التحميل</a> •
+    <a href="#usage">الاستخدام</a> •
+    <a href="#formats">الصيغ</a> •
+    <a href="#comparison">مقارنة</a> •
+    <a href="#disclaimer">إخلاء المسؤولية</a> •
+    <a href="#license">الترخيص</a>
+  </p>
+
+  <p>
+    <b>Quick Navigation (English):</b><br>
+    <a href="#Efeatures">Features</a> •
+    <a href="#Edownload">Download</a> •
+    <a href="#Eusage">Usage</a> •
+    <a href="#Eformats">Formats</a> •
+    <a href="#Edisclaimer">Disclaimer</a> •
+    <a href="#Econtact">Contact</a>
+  </p>
   
 </div>
 
 ---
+
+<div id="arabic_section"></div>
 
 ## 🎧 العربية
 
@@ -42,6 +55,8 @@
 **Excel Password Remover** هو أداة سطح مكتب ذكية ومفتوحة المصدر، مصممة لإزالة جميع أنواع الحماية من ملفات Excel بسهولة وأمان. يعمل التطبيق **محلياً بالكامل** على جهازك دون الحاجة للاتصال بالإنترنت، مع دعم كامل للغة العربية.
 
 ---
+
+<div id="features"></div>
 
 ### ✨ المميزات
 
@@ -62,12 +77,9 @@
 ### 🖼️ لقطات شاشة
 ![لقطة شاشة للواجهة الرئيسية](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/blob/main/Screenshot%202026-02-22%20195730.png)
 
-
-<div align="center">
-  
-</div>
-
 ---
+
+<div id="download"></div>
 
 ### 📦 التحميل المباشر
 
@@ -80,7 +92,9 @@
 
 > 💡 **ملاحظة:** فقط حمل وشغل مباشرة!
 
-#### التثبيت من المصدر
+---
+
+<div id="usage"></div>
 
 ### 🚀 طريقة الاستخدام
 
@@ -105,6 +119,8 @@
 
 ---
 
+<div id="formats"></div>
+
 ### 🎛️ الصيغ المدعومة
 
 | الصيغة | الامتداد | إزالة حماية الصفحات | إزالة حماية VBA |
@@ -119,6 +135,8 @@
 | Macro-Enabled Template | `.xltm` | ✅ | ✅ |
 
 ---
+
+<div id="disclaimer"></div>
 
 ### ⚖️ إخلاء المسؤولية
 
@@ -142,6 +160,8 @@
 
 ---
 
+<div id="comparison"></div>
+
 ### 📊 مقارنة مع أدوات أخرى
 
 | الميزة | Excel Password Remover | أدوات تجارية | أدوات أونلاين |
@@ -156,6 +176,8 @@
 
 ---
 
+<div id="contribution"></div>
+
 ### 🤝 المساهمة
 
 نرحب بمساهماتكم! يمكنك المساهمة بعدة طرق:
@@ -168,17 +190,21 @@
 
 ---
 
+<div id="license"></div>
+
 ### 📄 الترخيص
 
 هذا المشروع مرخص تحت **MIT License** - انظر ملف [LICENSE](LICENSE) للتفاصيل.
 
 ---
 
+<div id="contact"></div>
+
 ### 📬 التواصل
 
--- **البريد الإلكتروني**: [ps91andr@gmail.com](mailto:ps91andr@gmail.com)
+- **البريد الإلكتروني**: [ps91andr@gmail.com](mailto:ps91andr@gmail.com)
 - **GitHub**: [@ps91andr](https://github.com/ps91andr)
-- **الموقع**: [https://github.com/ps91andr](https://github.com/ps91andr))
+- **الموقع**: [https://github.com/ps91andr](https://github.com/ps91andr)
 
 ---
 
@@ -192,13 +218,21 @@
 
 ---
 
+<div id="english_section"></div>
+
 ## English
+
+<div dir="ltr">
 
 ### Overview
 
 **Excel Password Remover** is an open-source desktop tool designed to remove all types of protection from Excel files easily and securely. The application works **100% locally** on your device without needing an internet connection, with full English interface support.
 
-### Features
+---
+
+<div id="Efeatures"></div>
+
+### ✨ Features
 
 | Feature | Description |
 |--------|-------------|
@@ -212,11 +246,16 @@
 | 🌐 **Bilingual** | Full Arabic and English interface |
 | ⚡ **Async Processing** | Files processed in background without UI freezing |
 
+---
 
+### 🖼️ Screenshots
 ![Screenshots](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/blob/main/Screenshot%202026-02-22%20195220.png)
 
+---
 
-### Direct Download
+<div id="Edownload"></div>
+
+### 📦 Direct Download
 
 #### Ready-to-run versions (Windows)
 
@@ -225,10 +264,11 @@
 | [Excel_Remover_AR.exe](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN) | Arabic version - no installation needed |
 | [Excel_Remover_EN.exe](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN) | English version - no installation needed |
 
-### Installation from Source
+---
 
+<div id="Eusage"></div>
 
-### How to Use
+### 🚀 How to Use
 
 1. **Preparation**: Backup your important files first
 2. **Launch**: Open the application (choose Arabic or English)
@@ -249,7 +289,11 @@
 4. Save the file (Ctrl + S) and close it
 5. Reopen the file - VBA editor will open without password
 
-### Supported Formats
+---
+
+<div id="Eformats"></div>
+
+### 🎛️ Supported Formats
 
 | Format | Extension | Worksheet Protection | VBA Protection |
 |--------|----------|---------------------|----------------|
@@ -262,7 +306,11 @@
 | Excel Template | `.xltx` | ✅ | ❌ |
 | Macro-Enabled Template | `.xltm` | ✅ | ✅ |
 
-### Disclaimer
+---
+
+<div id="Edisclaimer"></div>
+
+### ⚖️ Disclaimer
 
 **🔴 Important - Read Carefully**
 
@@ -275,15 +323,16 @@ By using this tool, you acknowledge and agree that you:
 - Will not use it on files you don't own or without authorization
 - Understand that the developer is not responsible for any illegal use
 
-### License
+---
 
-This project is licensed under the MIT License.
+<div id="Econtact"></div>
 
-### Contact
+### 📬 Contact
 
-- *Email**: [ps91andr@gmail.com](mailto:ps91andr@gmail.com)
+- **Email**: [ps91andr@gmail.com](mailto:ps91andr@gmail.com)
 - **GitHub**: [@ps91andr](https://github.com/ps91andr)
 - **WEB**: [https://github.com/ps91andr](https://github.com/ps91andr)
+
 ---
 
 <div align="center">
@@ -295,4 +344,6 @@ This project is licensed under the MIT License.
   
   <sub>© 2026 Excel Password Remover. All rights reserved.</sub>
   
+</div>
+
 </div>
