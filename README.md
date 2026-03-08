@@ -93,7 +93,6 @@ Tool to remove Excel sheet and VBA passwords.
 
 <div id="download"></div>
 
-### 📦 التحميل المباشر
 
 ## 📥 Direct Download |  📦 التحميل المباشر
 
