@@ -98,10 +98,10 @@
 
 | الملف | التحميل |
 |------|------|
-| النسخة العربية - لا يحتاج تثبيت (GitHub) | [![Download](https://img.shields.io/badge/Download-AR%20Version-blue?style=for-the-badge&logo=download)](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN) |
-| النسخة العربية (Direct) | [![Direct Download](https://img.shields.io/badge/Direct%20Download-AR-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/6mgk38ds3lbt) |
-| النسخة الإنجليزية (GitHub) | [![Download](https://img.shields.io/badge/Download-EN%20Version-blue?style=for-the-badge&logo=download)](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN) |
-| النسخة الإنجليزية (Direct) | [![Direct Download](https://img.shields.io/badge/Direct%20Download-EN-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/4jli1bvht6r9) |
+| النسخة العربية (GitHub) - لا يحتاج تثبيت  | [![Download](https://img.shields.io/badge/Download-AR%20Version-blue?style=for-the-badge&logo=download)](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN) |
+| النسخة العربية (Download Direct) - لا يحتاج تثبيت  | [![Direct Download](https://img.shields.io/badge/Direct%20Download-AR-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/6mgk38ds3lbt) |
+| النسخة الإنجليزية (GitHub) - لا يحتاج تثبيت  | [![Download](https://img.shields.io/badge/Download-EN%20Version-blue?style=for-the-badge&logo=download)](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN) |
+| النسخة الإنجليزية (Download Direct) - لا يحتاج تثبيت | [![Direct Download](https://img.shields.io/badge/Direct%20Download-EN-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/4jli1bvht6r9) |
 
 
 > 💡 **ملاحظة:** فقط حمل وشغل مباشرة!
