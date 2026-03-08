@@ -1,10 +1,4 @@
-![GitHub release](https://img.shields.io/github/v/release/ps91andr/Excel-Password-VBA-Sheets-Remover?style=for-the-badge&logo=github)
-![GitHub downloads](https://img.shields.io/github/downloads/ps91andr/Excel-Password-VBA-Sheets-Remover/total?style=for-the-badge&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/ps91andr/Excel-Password-VBA-Sheets-Remover?style=for-the-badge&logo=github)
-![GitHub forks](https://img.shields.io/github/forks/ps91andr/Excel-Password-VBA-Sheets-Remover?style=for-the-badge&logo=github)
-![GitHub license](https://img.shields.io/github/license/ps91andr/Excel-Password-VBA-Sheets-Remover?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)
-![GitHub watchers](https://img.shields.io/github/watchers/ps91andr/Excel-Password-VBA-Sheets-Remover?style=for-the-badge&logo=github)
+
 
 # Excel Password VBA Sheets Remover
 
