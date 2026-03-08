@@ -267,16 +267,21 @@ Tool to remove Excel sheet and VBA passwords.
 
 <div id="Edownload"></div>
 
-### 📦 Direct Download
 
+
+
+## 📥 Direct Download |  📦 التحميل المباشر
 #### Ready-to-run versions (Windows)
+| Version | GitHub Release | Direct Download |
+|--------|---------------|----------------|
+|  النسخة العربية - لا يحتاج تثبيت   Arabic Version - no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/4.0.0.0) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/6mgk38ds3lbt) |
+|  النسخة الإنجليزية - لا يحتاج تثبيت  English Version -no installation needed | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)]([https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/4.0.0.0)) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/4jli1bvht6r9) |
 
-| File | Description |
-|------|-------------|
-| [Excel_Password_Remover_AR.exe](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN) | Arabic version - no installation needed |
-| [Excel_Password_Remover_AR.exe](https://www.up-4ever.net/6mgk38ds3lbt) | Arabic version - Direct download - no installation needed |
-| [Excel_Password_Remover_EN.exe](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN) | English version - no installation needed |
-| [Excel_Password_Remover_EN.exe](https://www.up-4ever.net/4jli1bvht6r9) | English version - Direct download - no installation needed |
+> 💡 **Note:* Just download and play directly!!
+
+---
+
+
 ---
 
 <div id="Eusage"></div>
