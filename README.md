@@ -104,6 +104,14 @@
 | النسخة الإنجليزية (Download Direct) - لا يحتاج تثبيت | [![Direct Download](https://img.shields.io/badge/Direct%20Download-EN-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/4jli1bvht6r9) |
 
 
+
+## 📥 Download
+
+| Version | GitHub Release | Direct Download |
+|--------|---------------|----------------|
+| 🇸🇦 Arabic Version | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/6mgk38ds3lbt) |
+| 🇬🇧 English Version | [![GitHub Download](https://img.shields.io/badge/GitHub-Download-blue?style=for-the-badge&logo=github)](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN) | [![Direct Download](https://img.shields.io/badge/Direct-Download-green?style=for-the-badge&logo=download)](https://www.up-4ever.net/4jli1bvht6r9) |
+
 > 💡 **ملاحظة:** فقط حمل وشغل مباشرة!
 
 ---
