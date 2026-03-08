@@ -90,7 +90,7 @@
 | [Excel_Password_Remover_AR.exe](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN) | النسخة العربية - لا يحتاج تثبيت |
 | [Excel_Password_Remover_AR.exe](https://www.up-4ever.net/6mgk38ds3lbt) | النسخة العربية - تحميل مباشر - لا يحتاج تثبيت |
 | [Excel_Password_Remover_EN.exe](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN) | النسخة الإنجليزية - لا يحتاج تثبيت |
-| [Excel_Password_Remover_EN.exe](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN) | النسخة الإنجليزية - تحميل مباشر - لا يحتاج تثبيت |
+| [Excel_Password_Remover_EN.exe](https://www.up-4ever.net/4jli1bvht6r9) | النسخة الإنجليزية - تحميل مباشر - لا يحتاج تثبيت |
 
 > 💡 **ملاحظة:** فقط حمل وشغل مباشرة!
 
@@ -263,9 +263,10 @@
 
 | File | Description |
 |------|-------------|
-| [Excel_Remover_AR.exe](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN) | Arabic version - no installation needed |
-| [Excel_Remover_EN.exe](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN) | English version - no installation needed |
-
+| [Excel_Password_Remover_AR.exe](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN) | Arabic version - no installation needed |
+| [Excel_Password_Remover_AR.exe](https://www.up-4ever.net/6mgk38ds3lbt) | Arabic version - Direct download - no installation needed |
+| [Excel_Password_Remover_EN.exe](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/releases/tag/Excel_Password_Remover_AR_EN) | English version - no installation needed |
+| [Excel_Password_Remover_EN.exe](https://www.up-4ever.net/4jli1bvht6r9) | English version - Direct download - no installation needed |
 ---
 
 <div id="Eusage"></div>
