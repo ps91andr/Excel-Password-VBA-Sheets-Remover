@@ -82,6 +82,7 @@ Tool to remove Excel sheet and VBA passwords.
 
 ### 🖼️ لقطات شاشة
 ![لقطة شاشة للواجهة الرئيسية](https://github.com/ps91andr/Excel-Password-VBA-Sheets-Remover/blob/main/Screenshot%202026-02-22%20195730.png)
+![لقطة شاشة للواجهة الرئيسية](https://i.ibb.co/fzRJbdm6/Screenshot-2026-02-22-195730.png)
 
 ---
 
