@@ -210,10 +210,12 @@ Tool to remove Excel sheet and VBA passwords.
 ### 📬 التواصل
 
 - **البريد الإلكتروني**: [ps91andr@gmail.com](mailto:ps91andr@gmail.com)
-- **GitHub**: [@ps91andr](https://github.com/ps91andr)
+- **البريد الإلكتروني**: [tahadevelopment2@gmail.com](mailto:tahadevelopment2@gmail.com)
+- **غيت هوب**: [@ps91andr](https://github.com/ps91andr)
 - **الموقع**: [https://github.com/ps91andr](https://github.com/ps91andr)
 
 ---
+
 
 ### ⭐ الدعم
 
@@ -343,6 +345,7 @@ By using this tool, you acknowledge and agree that you:
 ### 📬 Contact
 
 - **Email**: [ps91andr@gmail.com](mailto:ps91andr@gmail.com)
+- **Email**: [tahadevelopment2@gmail.com](mailto:tahadevelopment2@gmail.com)
 - **GitHub**: [@ps91andr](https://github.com/ps91andr)
 - **WEB**: [https://github.com/ps91andr](https://github.com/ps91andr)
 
